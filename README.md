@@ -21,6 +21,32 @@ This project is designed as a comprehensive learning resource for mastering the 
 - Overview of Angular framework
 - Key concepts and features
 
+- # Angular Development Environment Setup and Sample Project
+
+## Introduction to Angular
+
+Angular is a powerful open-source front-end web application framework developed by Google. This guide will help you set up the Angular development environment and provide a sample project to get you started.
+
+### Key Concepts and Features
+- **Components:** Building blocks of Angular applications.
+- **Modules:** Organizational units that group related components and services.
+- **Services:** Reusable application logic, often used for data retrieval and sharing information between components.
+- **Data Binding:** Mechanism to synchronize data between the model and view.
+
+## Setting up the Development Environment
+
+### 1. Installing Node.js and npm
+
+Download and install Node.js from [nodejs.org](https://nodejs.org/). npm (Node Package Manager) is included with Node.js.
+
+### 2. Installing Angular CLI
+
+Open a terminal or command prompt and run the following command to install Angular CLI globally:
+
+```bash
+npm install -g @angular/cli
+
+
 ## Setting up the Development Environment
 
 - Installing Node.js and npm
