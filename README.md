@@ -46,73 +46,72 @@ Open a terminal or command prompt and run the following command to install Angul
 ```bash
 npm install -g @angular/cli
 
-
-## Setting up the Development Environment
-
+----
+**### Setting up the Development Environment
+**
 - Installing Node.js and npm
 - Installing Angular CLI (Command Line Interface)
 - Creating a new Angular project
 
-## Angular Architecture and Components
-
+**## Angular Architecture and Components
+**
 - Modules, components, and services
 - Dependency injection
 - Creating components
 - Component lifecycle hooks
 - Data binding (interpolation, property binding, event binding, two-way binding)
 
-## Templates and Directives
-
+**## Templates and Directives
+**
 - HTML templates in Angular
 - Template expressions and statements
 - ngIf, ngFor, ngSwitch
 - Custom directives
 
-## Services and Dependency Injection
-
+**## Services and Dependency Injection
+**
 - Creating services
 - Injecting services into components
 - Understanding the DI system in Angular
 
-## Reactive Programming with RxJS
-
+**## Reactive Programming with RxJS
+**
 - Introduction to RxJS
 - Observables and observers
 - Operators in RxJS
 - Reactive forms
 - HTTP requests with RxJS
 
-## Routing and Navigation
-
+**## Routing and Navigation
+**
 - Setting up routes
 - Route parameters and navigation
 - Route guards
 - Resolver for pre-fetching data
 
-## Forms and Validation
-
+**## Forms and Validation
+**
 - Creating forms using template-driven approach
 - Form validation
 - Creating forms using reactive approach
 - Dynamic forms
 
-## HTTP and RESTful APIs
-
+**## HTTP and RESTful APIs
+**
 - Making HTTP requests in Angular
 - Handling responses and errors
 - Consuming RESTful APIs in Angular
 
-## Angular CLI and Project Deployment
-
+**## Angular CLI and Project Deployment
+**
 - Building and optimizing Angular applications
 - Unit testing and end-to-end testing
 - Deployment options (e.g., hosting on Firebase, GitHub Pages, etc.)
 
-## Advanced Topics (Optional)
-
+**## Advanced Topics (Optional)
+**
 - Introduction to NgRx for state management
 - Server-side rendering with Angular Universal
 
----
 
 Feel free to explore each section in order to deepen your understanding of Angular development. Happy coding!
