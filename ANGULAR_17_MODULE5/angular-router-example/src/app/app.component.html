@@ -1,0 +1,17 @@
+
+
+<main class="main">
+  <div class="content">
+    <!-- Navigation Links -->
+  <nav>
+    <ul>
+      <li><a routerLink="/">Home</a></li>
+      <li><a [routerLink]="['/product', 1]">Product Details</a></li>
+      <li><a routerLink="/invalid-route">Invalid Route</a></li>
+    </ul>
+  </nav>
+  </div>
+</main>
+
+
+<router-outlet />

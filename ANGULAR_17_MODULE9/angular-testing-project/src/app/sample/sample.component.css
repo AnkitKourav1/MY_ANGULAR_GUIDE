@@ -1,0 +1,15 @@
+/* Apply styling to the paragraph element */
+p {
+    font-size: 18px;
+    color: #0066cc; /* Sample color, you can change it */
+    margin-bottom: 10px;
+  }
+  
+  /* Optional: Add additional styling to enhance the appearance */
+  body {
+    font-family: 'Arial', sans-serif; /* Use your preferred font-family */
+    background-color: #f8f8f8; /* Set a background color for the body */
+    margin: 0; /* Remove default body margin */
+    padding: 20px; /* Add some padding for better readability */
+  }
+  
